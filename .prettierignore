@@ -1,0 +1,6 @@
+# Ignore artifacts:
+dev
+/dev
+/dev/stdin
+./dev/stdin
+# Ignore all HTML files:
